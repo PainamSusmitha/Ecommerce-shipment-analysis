@@ -19,3 +19,6 @@ delays, warehouse efficiency, and customer behavior patterns.
 * Customer Care Calls vs Delivery Status analysis
 * Product Importance breakdown
 * Gender distribution analysis
+
+## Dashboard Preview
+![Dashboard Preview](E-Commerce%20Shipment%20Analysis%20Dashboard.png)
