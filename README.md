@@ -1,29 +1,21 @@
 # E-Commerce Shipment Analysis Dashboard
 
 ## Project Overview
-
-This project analyzes e-commerce shipment and delivery performance using SQL and Power BI.
-
-## Tools Used
-
-* SQL
-* MySQL
-* Power BI
-* Excel
+This project analyzes e-commerce shipment and delivery 
+performance using SQL and Power BI to identify delivery 
+delays, warehouse efficiency, and customer behavior patterns.
 
 ## Key Insights
+* 59.67% orders were delayed — major delivery issue identified
+* Warehouse F has highest shipments (2194 orders)
+* Ship mode dominates over Flight and Road
+* Average customer rating is 2.99 out of 5
+* Medium importance products are ordered the most
+* Customer care calls increase with delayed deliveries
 
-* Analyzed shipment modes and delivery performance
-* Identified delayed deliveries and customer trends
-* Built KPIs for total orders, delayed deliveries, and customer ratings
-* Visualized warehouse operations and shipment analysis
-
-## Files Included
-
-* Power BI Dashboard (.pbix)
-* SQL Query File (.sql)
-* Dataset File (.csv/.xlsx)
-* Dashboard Screenshot (.png)
-
-## Dashboard Preview
-![Dashboard Preview](Ecommerce%20shippment%20Dashboard.png)
+## Key Features
+* Interactive slicer for warehouse block filtering
+* KPI cards for Total Orders, Delayed Orders, On-time Orders
+* Customer Care Calls vs Delivery Status analysis
+* Product Importance breakdown
+* Gender distribution analysis
