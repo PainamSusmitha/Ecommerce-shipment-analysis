@@ -22,4 +22,4 @@ delays, warehouse efficiency, and customer behavior patterns.
 
 
 ## Dashboard Preview
-![Dashboard Preview](E-Commerce%20Shipment%20Analysis%20Dashboard.png)
+![Dashboard Preview](ECommerce%20Shippment%20Analysis%20Dashboard.png)
